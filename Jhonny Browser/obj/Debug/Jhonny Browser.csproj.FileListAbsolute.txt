@@ -1,0 +1,20 @@
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\bin\Debug\Jhonny Browser.exe.config
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\bin\Debug\Jhonny Browser.exe
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\bin\Debug\Jhonny Browser.pdb
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.csproj.AssemblyReference.cache
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny_Browser.Form1.resources
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny_Browser.Properties.Resources.resources
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.csproj.GenerateResource.cache
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.csproj.CoreCompileInputs.cache
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.exe
+C:\Users\Destop\source\repos\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.pdb
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\bin\Debug\Jhonny Browser.exe.config
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\bin\Debug\Jhonny Browser.exe
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\bin\Debug\Jhonny Browser.pdb
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.csproj.AssemblyReference.cache
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny_Browser.Form1.resources
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny_Browser.Properties.Resources.resources
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.csproj.GenerateResource.cache
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.csproj.CoreCompileInputs.cache
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.exe
+C:\Users\Destop\OneDrive\Documentos\Visual Studio 2019\Projects jhonny\HolaMundo\HelloWorld JM\Jhonny Browser\Jhonny Browser\obj\Debug\Jhonny Browser.pdb
